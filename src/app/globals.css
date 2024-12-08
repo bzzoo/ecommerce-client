@@ -19,9 +19,9 @@
 }
 
 * {
-  margin: 0;
-  padding: 0p;
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
   scroll-behavior: smooth;
 }
 
@@ -30,7 +30,7 @@ html {
 }
 
 body {
-  font-family: var(var(--font-family));
+  font-family: var(--font-family);
 }
 
 a {

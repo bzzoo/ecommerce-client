@@ -1,7 +1,8 @@
 import React from "react";
+import RegisterClient from "./RegisterClient";
 
-const Resiter = () => {
-  return <div>Resiter</div>;
+const Register = () => {
+  return <RegisterClient />;
 };
 
-export default Resiter;
+export default Register;
